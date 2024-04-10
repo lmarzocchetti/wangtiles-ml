@@ -36,3 +36,6 @@ $ ./wangml -width 20 -height 20 -output output
 ### Further updates
 - [x] Compute the generation and save it to an output file
 - [ ] Use Raylib to write a GUI in which the User can choose the position and a specific tile to starting the generation
+
+### Contributes 
+Thanks to Tsoding for the atlas that he generates: [wang-tiles](https://github.com/tsoding/wang-tiles)
