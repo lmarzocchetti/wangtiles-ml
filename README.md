@@ -26,6 +26,10 @@ See the "img/" folder included in this project!
 
 After that simply launch the executable:
 ```
+$ dune exec --profile=release wangml -- -width 20 -height 20 -output output
+```
+or
+```
 $ ./_build/install/default/bin/wangml -width 20 -height 20 -output output
 ```
 or (if you have moved the executable in the same folder of "img/"):
